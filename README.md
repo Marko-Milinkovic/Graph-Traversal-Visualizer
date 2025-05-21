@@ -20,6 +20,7 @@ Professional-grade features include weighted edge support, heuristic customizati
 
 - Interactive grid with dynamic visualization
 - Maze generator for testing algorithms
+- Heuristic functions support for informed search (e.g., Manhattan, Euclidean)
 - Save and load grid configurations using JSON
 - Real-time animation of traversal steps
 - Support for multiple search algorithms
@@ -94,24 +95,52 @@ The visual interface of the **Graph Traversal Visualizer** is designed for intui
 
 ## How to Use the Visualizer
 
+<p align="center">
+  <img src="assets/ddd.PNG" alt="Image D" width="500"/>
+  <img src="assets/eee.PNG" alt="Image E" width="500" style="margin-left: 10px;"/>
+</p>
+<p align="center">
+  <img src="assets/fff.PNG" alt="Image F" width="500"/>
+  <img src="assets/ggg.PNG" alt="Image G" width="500" style="margin-left: 10px;"/>
+</p>
+
 1. **Select Start and Goal Nodes**
    - Click `Set Start`, then click a cell on the grid.
    - Click `Set Goal`, then choose a destination cell.
 
-2. **Add Obstacles**
+2. **Add Obstacles (Optional)**
    - Click `Block Mode` to toggle walls on the grid by clicking cells.
 
-3. **Generate a Maze (Optional)**
+3. **Add weighted edges (Optional)**
+   - Hold CTRL on keyboard, then click a cell on the grid.
+   - Weighted edges cost 5, default is 1
+
+4. **Generate a Maze (Optional)**
    - Press `LABYRINTH` to auto-generate a challenging maze.
 
-4. **Pick an Algorithm**
+5. **Pick an Algorithm**
    - Click on any of the algorithm buttons (e.g., `BFS`, `A*`, etc.).
 
-5. **Run the Algorithm**
+6. **Run the Algorithm**
    - Click `Run (Enter)` to visualize the selected algorithm in real-time.
 
-6. **Grid Controls**
+7. **Grid Controls**
    - `Save Grid` – Save the current state.
    - `Load Grid` – Reload a previously saved grid.
    - `Clear Grid` – Reset the grid.
+
+## Roadmap
+- Add support for diagonal movement
+- Export path as sequence of coordinates
+- Add Dijkstra’s and other algorithms
+- Web-based version with same UI/logic
+
+## Conclusion
+
+The Graph Algorithm Visualization Suite serves as both an educational tool and a development framework for understanding graph traversal and pathfinding strategies. By offering real-time visual feedback, configurable heuristics, and interactive controls, it provides a hands-on learning experience for students, educators, and developers alike.
+
+## License
+
+MIT License. See the [LICENSE](LICENSE) file for full details.
+
 
