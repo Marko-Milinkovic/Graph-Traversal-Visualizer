@@ -10,9 +10,11 @@ Designed for computer science education and algorithmic analysis, the tool highl
 The visualization contrasts algorithmic approaches to reveal their relative efficiencies in solving identical graph problems. 
 Professional-grade features include weighted edge support, heuristic customization for informed searches, and comprehensive performance metrics.
 
-<p align="left">
-  <img src="assets/aaa.png" alt="Visualizer" width="500"/>
+<p align="center">
+  <img src="assets/aaa.png" alt="Visualizer A" width="500"/>
+  <img src="assets/bbb.PNG" alt="Visualizer B" width="500" style="margin-left: 10px;"/>
 </p>
+
 
 ## Features
 
@@ -21,6 +23,7 @@ Professional-grade features include weighted edge support, heuristic customizati
 - Save and load grid configurations using JSON
 - Real-time animation of traversal steps
 - Support for multiple search algorithms
+- Performance report: time needed to find goal node and path cost
 - Intuitive and user-friendly control panel
 
 ## Supported Algorithms
