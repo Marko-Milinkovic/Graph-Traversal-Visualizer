@@ -10,6 +10,8 @@ Designed for computer science education and algorithmic analysis, the tool highl
 The visualization contrasts algorithmic approaches to reveal their relative efficiencies in solving identical graph problems. 
 Professional-grade features include weighted edge support, heuristic customization for informed searches, and comprehensive performance metrics.
 
+![Visualizer](assets/Visualizer.png)
+
 ## Features
 
 - Interactive grid with dynamic visualization
