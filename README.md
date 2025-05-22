@@ -1,6 +1,6 @@
 # Graph Algorithm Visualization Suite
 
-[![Python Version](https://img.shields.io/badge/C++-17-blue.svg)](https://en.cppreference.com/)
+[![Python Version](https://img.shields.io/badge/Python-3.11-blue.svg)](https://www.python.org/)
 [![SFML Version](https://img.shields.io/badge/SFML-2.5.1-ff7b00.svg)](https://www.sfml-dev.org/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
