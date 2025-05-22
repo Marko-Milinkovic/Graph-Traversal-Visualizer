@@ -208,7 +208,7 @@ The visual interface of the **Graph Traversal Visualizer** is designed for intui
 ## Roadmap
 - Add support for diagonal movement
 - Export path as sequence of coordinates
-- Add Dijkstra’s and other algorithms
+- Add Dijkstra’s, Bellman-Ford and other algorithms
 - Web-based version with same UI/logic
 
 ## Conclusion
