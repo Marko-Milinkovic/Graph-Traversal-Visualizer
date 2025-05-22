@@ -10,10 +10,24 @@ Designed for computer science education and algorithmic analysis, the tool highl
 The visualization contrasts algorithmic approaches to reveal their relative efficiencies in solving identical graph problems. 
 Professional-grade features include weighted edge support, heuristic customization for informed searches, and comprehensive performance metrics.
 
-<p align="center">
-  <img src="assets/aaa.png" alt="Visualizer A" width="500"/>
-  <img src="assets/bbb.PNG" alt="Visualizer B" width="500" style="margin-left: 10px;"/>
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="assets/aaa.png" alt="Visualizer A" width="500"/>
+      </td>
+      <td>
+        <img src="assets/second sc again.PNG" alt="Visualizer B" width="500" style="margin-left: 10px;"/>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <b>Grid-based Pathfinding Visualizer</b>
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 
 ## Features
@@ -32,48 +46,48 @@ Professional-grade features include weighted edge support, heuristic customizati
 <table align="center">
   <tr>
     <td align="center">
-      <img src="assets/first sc.PNG" alt="Screenshot 1" width="300"/><br/>
+      <img src="assets/first again sc.PNG" alt="Screenshot 1" width="400"/><br/>
     </td>
     <td align="center">
-      <img src="assets/second sc.PNG" alt="Screenshot 2" width="300"/><br/>
+      <img src="assets/second sc.PNG" alt="Screenshot 2" width="400"/><br/>
     </td>
     <td align="center">
-      <img src="assets/third sc.PNG" alt="Screenshot 3" width="300"/><br/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="assets/fourth sc.PNG" alt="Screenshot 4" width="300"/><br/>
-    </td>
-    <td align="center">
-      <img src="assets/fifth sc.PNG" alt="Screenshot 5" width="300"/><br/>
-    </td>
-    <td align="center">
-      <img src="assets/sixth sc.PNG" alt="Screenshot 6" width="300"/><br/>
+      <img src="assets/third sc.PNG" alt="Screenshot 3" width="400"/><br/>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="assets/seventh sc.PNG" alt="Screenshot 7" width="300"/><br/>
+      <img src="assets/fourth sc.PNG" alt="Screenshot 4" width="400"/><br/>
     </td>
     <td align="center">
-      <img src="assets/eighth sc.PNG" alt="Screenshot 8" width="300"/><br/>
+      <img src="assets/fifth sc.PNG" alt="Screenshot 5" width="400"/><br/>
     </td>
     <td align="center">
-      <img src="assets/nineth sc.PNG" alt="Screenshot 9" width="300"/><br/>
+      <img src="assets/sixth sc.PNG" alt="Screenshot 6" width="400"/><br/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="assets/seventh sc.PNG" alt="Screenshot 7" width="400"/><br/>
+    </td>
+    <td align="center">
+      <img src="assets/eighth sc.PNG" alt="Screenshot 8" width="400"/><br/>
+    </td>
+    <td align="center">
+      <img src="assets/nineth sc.PNG" alt="Screenshot 9" width="400"/><br/>
     </td>
   </tr>
 </table>
 
 
 ## Supported Algorithms
-- **Breadth-First Search (BFS)**
-- **Depth-First Search (DFS)**
+- **Breadth-First Search ( BFS )**
+- **Depth-First Search ( DFS )**
 - **A***
-- **Iterative Deepening Depth-First Search (IDDFS)**
-- **Fringe algorithm**
-- **Greedy Best-First Search (Greedy BFS)**
-- **Bidirectional Breadth-First Search (Bidirect BFS)**
+- **Iterative Deepening Depth-First Search ( IDDFS )**
+- **Fringe algorithm ( Memory efficient A*** **)**
+- **Greedy Best-First Search ( Greedy BFS )**
+- **Bidirectional Breadth-First Search ( Bidirect BFS )**
 
 ## Technologies Used
 
@@ -134,14 +148,37 @@ The visual interface of the **Graph Traversal Visualizer** is designed for intui
 
 ## How to Use the Visualizer
 
-<p align="center">
-  <img src="assets/ddd.PNG" alt="Image D" width="500"/>
-  <img src="assets/eee.PNG" alt="Image E" width="500" style="margin-left: 10px;"/>
-</p>
-<p align="center">
-  <img src="assets/fff.PNG" alt="Image F" width="500"/>
-  <img src="assets/ggg.PNG" alt="Image G" width="500" style="margin-left: 10px;"/>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <figure>
+        <img src="assets/ddd.PNG" alt="Image D" width="500"/>
+        <figcaption><b>Start Visualizer</b></figcaption>
+      </figure>
+    </td>
+    <td align="center">
+      <figure>
+        <img src="assets/eee.PNG" alt="Image E" width="500"/>
+        <figcaption><b>Select Start and Goal Tile</b></figcaption>
+      </figure>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <figure>
+        <img src="assets/fff.PNG" alt="Image F" width="500"/>
+        <figcaption><b>Select Algorithm and Click Run</b></figcaption>
+      </figure>
+    </td>
+    <td align="center">
+      <figure>
+        <img src="assets/ggg.PNG" alt="Image G" width="500"/>
+        <figcaption><b>Algorithm Execution Finished</b></figcaption>
+      </figure>
+    </td>
+  </tr>
+</table>
+
 
 1. **Select Start and Goal Nodes**
    - Click `Set Start`, then click a cell on the grid.
