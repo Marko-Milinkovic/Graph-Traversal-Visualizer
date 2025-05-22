@@ -27,6 +27,45 @@ Professional-grade features include weighted edge support, heuristic customizati
 - Performance report: time needed to find goal node and path cost
 - Intuitive and user-friendly control panel
 
+## Screenshots
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="assets/first sc.PNG" alt="Screenshot 1" width="300"/><br/>
+    </td>
+    <td align="center">
+      <img src="assets/second sc.PNG" alt="Screenshot 2" width="300"/><br/>
+    </td>
+    <td align="center">
+      <img src="assets/third sc.PNG" alt="Screenshot 3" width="300"/><br/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="assets/fourth sc.PNG" alt="Screenshot 4" width="300"/><br/>
+    </td>
+    <td align="center">
+      <img src="assets/fifth sc.PNG" alt="Screenshot 5" width="300"/><br/>
+    </td>
+    <td align="center">
+      <img src="assets/sixth sc.PNG" alt="Screenshot 6" width="300"/><br/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="assets/seventh sc.PNG" alt="Screenshot 7" width="300"/><br/>
+    </td>
+    <td align="center">
+      <img src="assets/eighth sc.PNG" alt="Screenshot 8" width="300"/><br/>
+    </td>
+    <td align="center">
+      <img src="assets/nineth sc.PNG" alt="Screenshot 9" width="300"/><br/>
+    </td>
+  </tr>
+</table>
+
+
 ## Supported Algorithms
 - **Breadth-First Search (BFS)**
 - **Depth-First Search (DFS)**
