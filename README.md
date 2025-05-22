@@ -159,7 +159,7 @@ The visual interface of the **Graph Traversal Visualizer** is designed for intui
     <td align="center">
       <figure>
         <img src="assets/eee.PNG" alt="Image E" width="500"/>
-        <figcaption><b>Select Start and Goal Tile</b></figcaption>
+        <figcaption><b>Set Start and Goal Tile</b></figcaption>
       </figure>
     </td>
   </tr>
